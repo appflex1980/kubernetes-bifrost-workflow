@@ -1,9 +1,8 @@
-<img width="2731" height="1190" alt="image" src="https://github.com/user-attachments/assets/04980f16-0c60-4f37-9845-e31f97bfd4f1" />
+<img width="1095" height="460" alt="image" src="https://github.com/user-attachments/assets/948e0208-a973-4deb-a703-583e4cbc51a4" />
 
 
-
-## Bytebase | Development 
-Bytebase is an open-source Database DevSecOps platform designed to centralize and automate database management workflows. It is often described as the "GitLab/GitHub for Databases" because it provides a collaborative, web-based workspace where developers and DBAs can manage the entire lifecycle of database schemas and data
+## Bifrost | Kubernetes
+Bifrost is a high-performance AI gateway that unifies access to 15+ providers (OpenAI, Anthropic, AWS Bedrock, Google Vertex, and more) through a single OpenAI-compatible API. Deploy in seconds with zero configuration and get automatic failover, load balancing, semantic caching, and enterprise-grade features.
 
 
 🧱  Key Features
