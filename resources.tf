@@ -38,8 +38,8 @@ module "minio" {
   depends_on = [module.argo]
 }
 
-module "bytebase" {
-  source = "./modules/bytebase"
+module "bifrost" {
+  source = "./modules/bifrost"
   depends_on = [module.minio]
 }
 
